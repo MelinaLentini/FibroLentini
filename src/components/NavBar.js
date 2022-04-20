@@ -1,10 +1,9 @@
+import DaisyNavBar from "./DaisyNavBar"
+
 const NavBar = () => {
     return (
         <div>
-            <li>Inicio</li>
-            <li>Productos</li>
-            <li>Como comprar</li>
-            <li>Contacto</li>
+            <DaisyNavBar/>
         </div>
     )
 }
