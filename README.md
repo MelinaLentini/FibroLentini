@@ -1,10 +1,20 @@
 E-COMMERCE: PROYECTO PARA CODERHOUSE
 
-Tienda virtual donde podés comprar artículos sim pintar en fibrofacil: caballitos mecedores, cajitas de diferentes tamaños, lapiceros
+Tienda virtual donde podés comprar artículos sin pintar en fibrofácil: caballitos mecedores, cajitas de diferentes tamaños, lapiceros, macetitas y servilleteros.
 
-## Desafio 20-04-2022
+## Desafío Entrega 13-04-2022
 
-Para este proyecto se solicitaba los archivos ItemListContainer.js y CartWidget.js.
-- El objetivo era poder visualizar el icono de carrito de compras con CartWidget.js.
-- Mientras que detro de ItemListContainer.js solo basta con renderizar algun texto.
+- Create-react-app para este proyecto de un e-commerce
+- Repo subido a GitHub: https://github.com/MelinaLentini/FibroLentini
 
+## Desafío Entrega 18-04-2022
+
+- Creación de la carpeta Components en la cual agregué: NavBar.js y dentro llamé a DaisyNavBar.js
+- Para el NavBar utilicé DaisyUI
+
+## Desafío Entrega 20-04-2022
+
+- Agregué en la carpeta Components: ItemListContainer.js y CartWidget.js.
+- El objetivo era poder visualizar el icono de carrito de compras con CartWidget.js que va dentro del NavBar.js (Lo agregué dentro de DaisyNavBar.js que está incorporad en el NavBar.js)
+- Renderizar un greeting como props dentro de ItemListContainer.js
+- Borré los archivos .test y algunas líneas de códigos en diversos archivos que los vamos a utilizar para los fines de la entrega final de este proyecto.
